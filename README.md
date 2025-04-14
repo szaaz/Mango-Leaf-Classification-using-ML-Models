@@ -5,7 +5,7 @@ Proyek ini membandingkan beberapa algoritma machine learning untuk mengklasifika
 
 
 **_Tujuan_**
-- Mengimplementasikan dan membandingkan berbagai model ML: Decision Tree, KNN, Naive Bayes, SVM, dan Random Forest
+- Mengimplementasikan dan membandingkan berbagai model ML: Decision Tree, KNN, Naive Bayes, dan SVM
 - Melakukan analisis performa model berdasarkan akurasi, precision, recall, dan f1-score
 - Menunjukkan kemampuan end-to-end data analysis untuk portofolio
 
